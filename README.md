@@ -70,4 +70,4 @@ This repo is a work in progress. It will be updated with new exercises and tips 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for educational purposes.
+This repository is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code for educational purposes.
