@@ -9,8 +9,8 @@ This repository contains a super fast review of Python basics, along with a brie
 - [NumPy](#numpy)
 - [Contributing](#contributing)
 - [WIP](#WIP) 
-- [License](#license)
 - [Repository Files](#repository-files)
+- [License](#license)
 
 ## Introduction
 
@@ -40,8 +40,6 @@ Contributions to this repository are welcome! If you have any suggestions, impro
 
 ## WIP
 This repo is a work in progress. It will be updated with new exercises and tips in the future. Stay tuned for more content to enhance your learning experience.
-
-## Repository Files
 
 ## Repository Files
 
