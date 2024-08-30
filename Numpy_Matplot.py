@@ -14,6 +14,9 @@ print("Array:", arr)        # We use 'np - dot' as prefix to access the functio
 print("Sum:", np.sum(arr))  # The np.sum() function calculates the sum of all the elements in the array.
 
 
+# # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
 # 10. Matplotlib
 #     Create a line plot that represents the function y = x^2 for values of x ranging from -10 to 10.
             # Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
