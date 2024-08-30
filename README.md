@@ -8,7 +8,7 @@ This repository contains a super fast review of Python basics, along with a brie
 - [Matplotlib](#matplotlib)
 - [NumPy](#numpy)
 - [Contributing](#contributing)
-- [WIP](#WIP) 
+- [WIP](#wip) 
 - [Repository Files](#repository-files)
 - [License](#license)
 
@@ -38,7 +38,7 @@ NumPy is a fundamental package for scientific computing in Python. This section 
 
 Contributions to this repository are welcome! If you have any suggestions, improvements, or additional exercises, please feel free to submit a pull request. Together, we can make this repository a valuable resource for Python learners.
 
-## WIP
+## WIP
 
 This repo is a work in progress. It will be updated with new exercises and tips in the future. Stay tuned for more content to enhance your learning experience.
 
