@@ -64,9 +64,8 @@ This repo is a work in progress. It will be updated with new exercises and tips 
 - **`README.md`**
   - The main documentation file for the repository, providing an overview, setup instructions, and other essential information to get started.
 
-- **`LICENSE`**
-  - Specifies the terms under which the repository content is licensed, allowing for modification, distribution, and private or commercial use under the conditions stated.
-
+- **`PythonReviewGuide.md`**
+  - Provides a quick and thorough review of Python’s capabilities, from basic syntax to more complex features such as handling files and using popular libraries.
 
 ## License
 
