@@ -44,19 +44,20 @@ This repo is a work in progress. It will be updated with new exercises and tips 
 
 ## Repository Files
 
-- **`10_basic_exercise.py`**
-  - Contains 10 foundational exercises for practicing basic Python syntax and operations such as loops, conditionals, and data structures.
 
-- **`BasicOp_Cycles_Functions_Strings.py`**
+- **`01_BasicOp_Cycles_Functions_Strings.py`**
   - Focused on basic operations, loop structures, functions, and string manipulation, this script is perfect for new programmers looking to get a solid start.
 
-- **`Lists_Dictionaries_Tuples_Sets.py`**
+- **`02_Lists_Dictionaries_Tuples_Sets.py`**
   - This file introduces Python's core data structures, providing exercises that demonstrate their usage and best practices for manipulation.
 
-- **`Numpy_Matplot.py`**
+- **`03_Numpy_Matplot.py`**
   - Offers a primer on using NumPy for numerical operations and Matplotlib for data visualization, including how to generate various types of plots and charts.
 
-- **`usefulFunctionForEveryday.py`**
+- **`04_10_basic_exercise.py`**
+  - Contains 10 foundational exercises for practicing basic Python syntax and operations such as loops, conditionals, and data structures.
+
+- **`05_usefulFunctionForEveryday.py`**
   - A collection of utility functions that are applicable in daily coding tasks. It includes functions for file handling, date manipulation, and string operations.
 
 
@@ -67,6 +68,9 @@ This repo is a work in progress. It will be updated with new exercises and tips 
 
 - **`PythonReviewGuide.md`**
   - Provides a quick and thorough review of Python’s capabilities, from basic syntax to more complex features such as handling files and using popular libraries.
+
+- **`PythonReviewGuide.pdf`**
+  - A PDF downloadable version of the review guide.
 
 ## License
 
